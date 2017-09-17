@@ -19,7 +19,7 @@
 	
 	<img src="Image/DALIANG.png"></img>
 	
-	> 时间：2017.6.23 地点：上海西岸艺术中心   
+	> 时间：2017.6.23 地点：上海西岸艺术中心[**VR Video**](https://www.youtube.com/watch?v=Hfco9ProWhs&feature=youtu.be)   
 	> 1、3. TAIWAN MC说唱ZCAM VR拍摄    
 	> 2. King Krab乐队四头VR拍摄   
 	> 4. 音乐节现场VR相机部署测试
@@ -65,7 +65,8 @@
 	
 - 2016.12 -- 2017.2 北京和谐立诚科技文化发展有限公司
 
-	> 协助拍摄VR视频，并用Kolor AVP拼接VR视频. [**VR Video**](/Users/huangbo/Downloads/Postgraduate/毕设/简历/简历资料/IMG_2128.JPG)
+	> 协助拍摄VR视频，并用Kolor AVP拼接VR视频. [**VR Video**](https://youtu.be/8SOn7JUJ7cU)
+	
 	
 	
 - 2016.11 上海网达软件股份有限公司
