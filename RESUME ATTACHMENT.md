@@ -73,7 +73,7 @@
 
 	> 参与VR直播平台的设计以及搭建
 	
-	![直播平台](https://github.com/hbfreedow/rusume-attachment/blob/master/Image/WONDER.png)
+	 <img src="Image/WONDER.png"></img>
 	
 	
 - 2016.5 -- 2016.9 深圳市道通科技有限公司软件开发五部
