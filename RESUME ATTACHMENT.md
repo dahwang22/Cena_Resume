@@ -5,6 +5,7 @@
 - Email: hbkekao@gmail.com
 - Education: Master Degree Candidate           
 - Desired position：**Image Algorithm Engineer** or **Machine learning algorithm engineer**
+- Living place: Tianhe District, Guangzhou, 510642, P.R.China
 
 #### TimeLine
 ---
