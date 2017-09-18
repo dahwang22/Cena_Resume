@@ -3,9 +3,10 @@
 ---
 - Name：**Cena Hwang**
 - Email: hbkekao@gmail.com
-- Education: Master Degree Candidate           
-- Desired position：**Image Algorithm Engineer** or **Machine learning algorithm engineer**
+- Education: Master Degree Candidate
 - Living place: Tianhe District, Guangzhou, 510642, P.R.China
+- Desired position：**Image Algorithm Engineer** or **Machine learning algorithm engineer**
+
 
 #### TimeLine
 ---
